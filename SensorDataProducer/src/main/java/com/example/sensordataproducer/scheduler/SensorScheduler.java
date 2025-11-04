@@ -1,4 +1,4 @@
-package com.example.sensordataproducer.schedular;
+package com.example.sensordataproducer.scheduler;
 import com.example.sensordataproducer.service.SensorProducerService;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
